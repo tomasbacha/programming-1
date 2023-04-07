@@ -1,4 +1,4 @@
-*one way if statement */
+/*one way if statement */
 // Program to print positive number entered by the user
 // If the user enters a negative number, it is skipped
 
